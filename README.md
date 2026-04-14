@@ -1,6 +1,6 @@
 <!-- Banner / GIF -->
 <p align="center">
-  <img src="Dance Weed GIF.gif" width="70%" style="border-radius:15px;" />
+  <img src="Dance Weed GIF.gif" width="50%" style="border-radius:15px;" />
 </p>
 
 <h1 align="center">Hey there, I'm <span style="color:#7F5AF0;">Khushboo Bhola 👋</span></h1>
