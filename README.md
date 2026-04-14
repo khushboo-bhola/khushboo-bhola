@@ -1,6 +1,6 @@
-<!-- Banner / Header -->
+<!-- Banner / GIF -->
 <p align="center">
-  <img src="gif.gif" alt="banner" width="85%" height="600px"/>
+  <img src="Dance Weed GIF.gif" width="70%" style="border-radius:15px;" />
 </p>
 
 <h1 align="center">Hey there, I'm <span style="color:#7F5AF0;">Khushboo Bhola 👋</span></h1>
@@ -10,16 +10,16 @@
 
 ### ✨ About Me  
 
-- 🧠 Passionate **problem-solver** with strong interest in **Web Development & DSA**  
-- 💻 Skilled in building applications using **MERN Stack**  
-- 📚 Continuously improving in **Data Structures & Algorithms (LeetCode)**  
-- 🔥 Love creating projects that combine **logic + creativity**  
-- 🎯 Goal: Become a strong **Software Engineer with solid DSA + Dev skills**  
-- ☕ Fuel: Coffee, consistency, and coding  
+- 🧠 Passionate **problem-solver** who loves coding & building projects  
+- 💻 Skilled in **MERN Stack Development**  
+- 📚 Practicing **DSA (100+ LeetCode problems)**  
+- 🔥 Love combining **logic + creativity**  
+- 🎯 Goal: Become a strong **Software Engineer**  
+- ☕ Fuel: Coffee, consistency & coding  
 
 ---
 
-### ⚙️ Tech Arsenal  
+### ⚙️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,cpp,python,c,git,github&theme=light" />
@@ -27,28 +27,24 @@
 
 ---
 
-### 📈 GitHub Highlights  
+### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushboo1317&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo1317&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushboo1317&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushboo-bhola&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo-bhola&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 🧩 Featured Creations  
+### 🧩 Projects  
 
-- 💬 **Quote Loom** — A platform where users can create and share motivational quotes  
-- 🌐 **MERN Projects** — Full-stack applications using MongoDB, Express, React, Node  
-- 🧠 **DSA Practice** — Solved 100+ problems on LeetCode  
+- 💬 **Quote Loom** — Platform to share motivational quotes  
+- 💕 **Amoura (Matrimonial + Dating App)** — MERN based project  
+- 🌐 **Full Stack Projects** — Real-world applications  
 
 ---
 
-### 🌐 Let’s Connect  
+### 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khushboo-bhola-471a23353/" target="_blank">
@@ -65,7 +61,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushboo1317&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=khushboo-bhola&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
